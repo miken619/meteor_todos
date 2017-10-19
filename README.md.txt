@@ -1,0 +1,1 @@
+A application developed in the Meteor framework
